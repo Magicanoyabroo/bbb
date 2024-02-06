@@ -1,0 +1,18 @@
+{
+    "example": {
+        "name": "example",
+        "ip": "192.168.1.2",
+        "last_updated": {
+            "time": "12:27 AM",
+            "date": "07-02-2024"
+        }
+    },
+    "": {
+        "name": null,
+        "ip": null,
+        "last_updated": {
+            "time": "12:24 AM",
+            "date": "07-02-2024"
+        }
+    }
+}
